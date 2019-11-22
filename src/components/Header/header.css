@@ -1,3 +1,22 @@
 .jmb {
     background-color: aliceblue;
 }
+
+.header-description {
+    padding-left: 40px;
+    padding-top: 60px;
+
+}
+
+.header-description .header-text {
+    font-size: 64px;
+}
+
+.header-description .social-area a {
+    padding: 10px;
+    font-size: 12px;
+}
+
+h4 {
+    font-size: 20px;
+}
